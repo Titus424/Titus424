@@ -5,7 +5,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/Titus424">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&color=F7006A&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Android+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+%26+Building">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&color=F7006A&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Android+Developer;Laravel+%26+M-Pesa+Integration;Always+Learning+%26+Building">
   </a>
 </p>
 
@@ -13,8 +13,10 @@
 
 ## 💡 About Me  
 - 🌱 Currently learning **full-stack development & AI/ML**  
-- 💼 Building apps in **Android (Java/Kotlin)** and **Node.js/Express**  
-- 🎯 Passionate about **betting apps, health-tech, and e-commerce platforms**  
+- 💼 Building apps in **Android (Java/Kotlin)**, **Node.js/Express**, and **Laravel**  
+- 💳 Experienced in **M-Pesa Integration** for payments  
+- 🔧 Skilled in **updating & maintaining Laravel projects**  
+- 🎯 Passionate about **betting apps, health-tech, e-commerce & mobile solutions**  
 - ⚡ Motto: *"Learning is building — every line of code is progress."*  
 
 ---
@@ -28,6 +30,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -40,10 +43,15 @@
 ---
 
 ## 📌 Featured Projects  
+
 - 🎯 **[LOFEH Tips](#)** – Android betting tips app with VIP & Free plans  
 - 🧬 **[RNA 3D Prediction](#)** – Kaggle project predicting RNA structures  
 - 🍽 **[SmartFood Restaurant](#)** – Modern restaurant website with email integration  
 - 📱 **[Life Mentor](#)** – Health & fitness app for BMI, BMR & protein tracking  
+- 🌍 **[ghaiahabaya.com](http://ghaiahabaya.com)** – E-commerce / custom site  
+- 🌍 **[chebarbartiko.com](http://chebarbartiko.com)** – Business/organization website  
+- 🌍 **[chebarbartiko.co.ke](http://chebarbartiko.co.ke)** – Kenyan business website  
+- 🚗 **[cashfortrashcars.com](http://cashfortrashcars.com/)** – Car resale website  
 
 ---
 
@@ -73,4 +81,3 @@
 ---
 
 ⭐️ From [Titus424](https://github.com/Titus424)  
-
